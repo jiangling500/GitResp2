@@ -3,5 +3,5 @@ package cn.infoq.xie;
 public class Student {
     private int age;
     private String name;
-    double height;
+    private double height;
 }
